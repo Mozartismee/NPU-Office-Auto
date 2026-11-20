@@ -1,0 +1,5 @@
+# Preserve the Windows batch and PowerShell files as packaged.
+activation/v0/office-kms.bat -text
+activation/v1/*.bat -text
+activation/v1/*.ps1 -text
+activation/v1/*.txt -text
